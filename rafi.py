@@ -180,7 +180,7 @@ def v3():
     os.system('clear')
     os.system('xdg-open https://facebook.com/groups/3206414299669908/')
     print(logo)
-    print("[017]  [016]   [018]   [019]
+    print"([017]  [016]   [018]   [019])"
     kode = input(' [√] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
     kod = ''.join(random.choice(string.digits) for _ in range(2))
