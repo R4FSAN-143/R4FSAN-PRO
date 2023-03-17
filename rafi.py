@@ -77,11 +77,11 @@ for xd in range(10000):
 logo = ("""\x1b[1;97m
 
    88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
-   88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
-   88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
-   88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
-   88 `88. 88   88 88      db   8D 88   88 88  V888 
-   88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
+  88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
+  88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
+  88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
+  88 `88. 88   88 88      db   8D 88   88 88  V888 
+  88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
 \x1b[1;97m__________________________________________________
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
