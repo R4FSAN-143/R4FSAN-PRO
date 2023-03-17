@@ -82,7 +82,8 @@ logo = ("""\x1b[1;97m
 88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
 88 `88. 88   88 88      db   8D 88   88 88  V888 
 88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97mprint(50*'=')
+
+\x1b[1;97m__________________________________________________
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
@@ -90,7 +91,7 @@ logo = ("""\x1b[1;97m
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : AUTO CRACK
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : FREE
 \033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1.9
-print(50*'=')""")
+__________________________________________________""")
 
 class Main:
     def __init__(self):
@@ -104,7 +105,7 @@ class Main:
         print(" [1] FACEBOOK EMAIL CLONING")
         print(" [2] FACEBOOK USER NAME CLONING")
         print(" [3] FACEBOOK RANDOM CLONING[\033[1;35mBANGLADESH]")
-        print(" [0] Exit")
+        print("\x1b[1;97m [0] Exit")
         Snigdho =input(" [√] Choose : ")
         if Snigdho in ["1", "01"]:
             v1()
