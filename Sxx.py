@@ -670,4 +670,4 @@ def crack(idf,pwx,url,time_xx):
 
 	
 if __name__=='__main__':
-	manu()
+	menu()
