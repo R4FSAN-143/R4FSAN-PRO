@@ -210,21 +210,20 @@ def pkg_():
 \033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
 \x1b[1;97m______________________________________________________________
 """)
-	{I}DEVELOPER :{II} MAMUN AHMED FAHIM{Q} [{II}N00B B0SS{Q}]\n\n{I}	TOOLS NAME : EMAIL-CRACKER \n\n	OUR TEAM : TERMUX TECH BD \n  """%(I, U, P, K, M, II, O, M))
 
-        print(f"{II}_{Q}"*57)
+        print(f"{II}_{Q}"*50)
 
         print (" YOUR ID NOT APPROVED \n")
         print (" THIS YOUR ID COPY NOW 👇\n")
 
-        print(f"{II}_{Q}"*57+'\n')
+        print(f"{II}_{Q}"*50+'\n')
 
         print (" YOUR ID : "+noob___mamun__+___mamun__1)
-        print(f"{II}_{Q}"*57)
+        print(f"{II}_{Q}"*50)
 
         print (" YOUR ID COPY AND SEND TO ADMIN \n")
 
-        print(f"{II}_{Q}"*57)
+        print(f"{II}_{Q}"*50)
         time.sleep(3.5)
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20___mamun__%20To%20Premium✓✓%20%20%20%20%20My%20%20___mamun__%20%20:%20'+noob___mamun__+''+___mamun__1
