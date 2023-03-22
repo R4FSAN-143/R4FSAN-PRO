@@ -161,8 +161,11 @@ print ('                     Checking Approval')
         bsn_menu()
     else:
         os.system('clear')
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100003174443045')
+        os.system('xdg-open https://www.facebook.com/bk4human')
         logo()
+        print('')
+        print ('               \tApproved Not Detected')
+        print ('')
         print("            \033[1;97mTHIS TOOL IS PAID YOU NEED TO GET APPROVED FIRST")
         print ('               \033[1;97mYOUR KEY : ' + to)
         print("               COPY AND SEND KEY TO ADMIN")
@@ -192,6 +195,8 @@ def reg2():
     sav.write(id)
     sav.close()
     reg()
+        os.system('xdg-open https://www.facebook.com/mamunahmed.fahim.5')
+        os.system('am start https://wa.me/+8801715650048?text=' + tks)
         
 
     r1=requests.get("https://raw.githubusercontent.com/noobboss1/main/main/x/c/h/error/file.txt").text
