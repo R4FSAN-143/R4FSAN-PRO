@@ -85,7 +85,7 @@ logo =(logo = ("""\x1b[1;97m
 \033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m TOOLS   : MULTIPLE 
 \033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m Stetus  : TRAIL
 \033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m VIRSION : 0.4
-__________________________________________________""")
+\x1b[1;97m__________________________________________________""")
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,uuid,ipaddress,calendar,requests,mechanize,bs4,sys,os,subprocess,uuid,requests,sys,random,time,re,base64,json,platform
