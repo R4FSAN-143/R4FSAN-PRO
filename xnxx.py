@@ -84,8 +84,9 @@ logo =("""
 \033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m TOOLS   : PREMIUM
 \033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m Stetus  : PAID
 \033[38;5;196m[\033[38;5;195m\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
-====================================================
-""")
+====================================================""")
+
+
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,uuid,ipaddress,calendar,requests,mechanize,bs4,sys,os,subprocess,uuid,requests,sys,random,time,re,base64,json,platform
 ###---[ IMPORT MODULE ]---###
 
