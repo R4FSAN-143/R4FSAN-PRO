@@ -69,8 +69,7 @@ p = '\x1b[0;34m'
 
 
 
-logo = (logo = (""" \x1b[1;97m
-
+logo =("""\x1b[1;97m
  88888b.  .d8b.  d88888b .d8888.  .d8b.  d8b   db
  88  `8D d8' `8b 88'     88'  YP d8' `8b 888o  88 
  88oobY' 88ooo88 88oooo   `8bo.  88ooo88 88V8o 88
