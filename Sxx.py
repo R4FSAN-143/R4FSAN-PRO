@@ -30,7 +30,7 @@ wa = f"{Q}[{I}•{Q}]"
 my_color = [P,M,H,K,B,U,O,N,II,I,C,M,U,K,N,P,H,Q,O,B]
 wx = random.choice(my_color)
 
-II='\x1b[1;32m'
+II='\x1b[1;97m'
 I='\033[1;32m'
 C='\x1b[1;36m'
 M='\033[1;91m'
@@ -138,7 +138,7 @@ def pkg_():
   88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
   88 `88. 88   88 88      db   8D 88   88 88  V888 
   88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m===================================================
+\x1b[1;97m____________________________________________________________
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
@@ -146,7 +146,7 @@ def pkg_():
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : PREMIUM
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : PAID
 \033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
-\x1b[1;97m______________________________________________________________
+\x1b[1;97m____________________________________________________________
 """)
 
         print (" YOUR ID NOT APPROVED \n")
@@ -412,7 +412,7 @@ def clon_email():
 	rr = random.randint
 	bas = ['akther','begum','nusrat','khanom','mst','ahmed','miah','chy','talukder','sayed','khan','rayhan','sabbir','muhammad','radika','foysal','mamun','fahim','fahima','ahmed','sultana','afsana','aditya','farjana','sabina','tasnima','tasnim','rabby','farhana','farhan','fokhrul','noyon','gaming']
 	blk = ['999','official','gaming','123','1234','12345','123456']
-	print(54*f'{II}_')
+	print(50*f'{II}_')
 	
 
 
