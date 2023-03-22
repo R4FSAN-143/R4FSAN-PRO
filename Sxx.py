@@ -153,13 +153,13 @@ def pkg_():
 
         print (" THIS YOUR ID COPY NOW👇     ")
 
-        print(f"{II}_{Q}"*57)
+        print(f"{II}_{Q}"*50)
 
         myid=uuid.uuid4().hex[:15].upper()
 
         print ("\n YOUR ID : "+noob___mamun__+myid+love)
 
-        print(f"{II}_{Q}"*57)
+        print(f"{II}_{Q}"*50)
 
         kok=open('/data/data/com.termux/files/usr/bin/.termux-cov', 'w')
 
@@ -170,7 +170,7 @@ def pkg_():
 
         print (" YOUR ID COPY AND SEND TO ADMIN \n")
 
-        print(f"{II}_{Q}"*57)
+        print(f"{II}_{Q}"*50)
 
         time.sleep(3.5)
 
@@ -366,7 +366,7 @@ def menu():
   88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
   88 `88. 88   88 88      db   8D 88   88 88  V888 
   88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m===================================================
+\x1b[1;97m________________________________________________________________
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
@@ -374,16 +374,16 @@ def menu():
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : PREMIUM
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : PAID
 \033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
-\x1b[1;97m______________________________________________________________
+\x1b[1;97m________________________________________________________________
 """)
-	print(50*f'{II}_')
+	print(52*f'{II}_')
 	print('\033[47m\033[1;31m                     MAIN MENU                       |\033[00m\033[00m')
 	Audio_('data/.main_menu.mp3')
 	print(f"\n {P}[{hh}01{P}] CRACKING FROM EMAIL\n")
 	
 	print(f" [{hh}02{P}] CRACKING FROM FILE \n")
 	print(f" [{hh}00{P}] LOGOUT ")
-	print(50*f'{II}_')
+	print(52*f'{II}_')
 	Audio_('data/.choice.mp3')
 	
 	ask = input(f' {wa} CHOICE AN OPTION : ')	
