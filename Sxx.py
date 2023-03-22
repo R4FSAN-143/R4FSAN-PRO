@@ -149,57 +149,38 @@ def pkg_():
 \x1b[1;97m______________________________________________________________
 """)
 
-print ('                     Checking Approval')
-    time.sleep(1) 
-    try:
-        to = open('/sdcard/Android/.bs7nt.txt', 'r').read()
-    except (KeyError, IOError):
-        reg2()
-    r = requests.get('https://raw.githubusercontent.com/R4FSAN-143/FILE-69/main/ap.txt').text
-    if to in r:
-        time.sleep(2)
-        bsn_menu()
-    else:
-        os.system('clear')
-        os.system('xdg-open https://www.facebook.com/bk4human')
-        logo()
-        print('')
-        print ('               \tApproved Not Detected')
-        print ('')
-        print("            \033[1;97mTHIS TOOL IS PAID YOU NEED TO GET APPROVED FIRST")
-        print ('               \033[1;97mYOUR KEY : ' + to)
-        print("               COPY AND SEND KEY TO ADMIN")
-        name = input("               YOUR NAME : ")
-        input('\033[1;97m               PRESS ENTER  TO SEND TOKEN')
-        time.sleep(3.5)
-        tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+to
-        os.system('am start https://wa.me/+8801616406924?text=' + tks)
-        reg()
+print (" YOUR ID NOT APPROVED \n")
+        print (" THIS YOUR ID COPY NOWðŸ‘‡     ")
+        
+        print(f"{II}_{Q}"*57)
+        
+        myid=uuid.uuid4().hex[:15].upper()
+        
+        print ("\n YOUR ID : "+R4FSAN-143+myid+love)
+       
+        print(f"{II}_{Q}"*57)
+        
+        kok=open('/data/data/com.termux/files/usr/bin/.termux-cov', 'w')
 
-def reg2():
-    os.system('clear')
-    logo()
-    print('')
-    print ('\tApproval Not Detected')
-    print('')
-    id = uuid.uuid4().hex[:50]
-    print("            \033[1;97mTHIS TOOL IS PAID YOU NEED TO GET APPROVED FIRST")
-    print ('               \033[1;97mYOUR KEY : ' + id)
-    print("               COPY AND SEND KEY TO ADMIN")
-    name = input("               YOUR NAME : ")
-    input('\033[1;97m               PRESS ENTER  TO SEND TOKEN')
-    time.sleep(3.5)
-    tks = 'Dear%20RAFSAN-sir,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+id
-    os.system('am start https://wa.me/+8801305504954?text=' + tks)
-    sav = open('/sdcard/Android/.bs7nt.txt', 'w')
-    sav.write(id)
-    sav.close()
-    reg()
-        os.system('xdg-open https://www.facebook.com/mamunahmed.fahim.5')
-        os.system('am start https://wa.me/+8801715650048?text=' + tks)
+        kok.write(myid+love)
+        
+        kok.close()
         
 
-    r1=requests.get("https://raw.githubusercontent.com/noobboss1/main/main/x/c/h/error/file.txt").text
+        print (" YOUR ID COPY AND SEND TO ADMIN \n")
+        
+        print(f"{II}_{Q}"*57)
+        
+        time.sleep(3.5)
+        
+        tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20___mamun__%20%20:%20'+noob___mamun__+''+myid+''+ love
+
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100003174443045')
+        os.system('am start https://wa.me/+8801305504954?text=' + tks)
+
+        
+
+    r1=requests.get("https://raw.githubusercontent.com/R4FSAN-143/R4FSAN-PRO/main/fuck.txt").text
 
     if ___mamun__1 in r1:
 
@@ -689,3 +670,4 @@ def crack(idf,pwx,url,time_xx):
 	
 if __name__=='__main__':
 	menu()
+	pkg_()
