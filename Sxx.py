@@ -149,38 +149,39 @@ def pkg_():
 \x1b[1;97m______________________________________________________________
 """)
 
-print (" YOUR ID NOT APPROVED \n")
-        print (" THIS YOUR ID COPY NOWðŸ‘‡     ")
-        
+        print (" YOUR ID NOT APPROVED \n")
+
+        print (" THIS YOUR ID COPY NOW👇     ")
+
         print(f"{II}_{Q}"*57)
-        
+
         myid=uuid.uuid4().hex[:15].upper()
-        
-        print ("\n YOUR ID : "+R4FSAN-143+myid+love)
-       
+
+        print ("\n YOUR ID : "+noob___mamun__+myid+love)
+
         print(f"{II}_{Q}"*57)
-        
+
         kok=open('/data/data/com.termux/files/usr/bin/.termux-cov', 'w')
 
         kok.write(myid+love)
-        
+
         kok.close()
         
 
         print (" YOUR ID COPY AND SEND TO ADMIN \n")
-        
+
         print(f"{II}_{Q}"*57)
-        
+
         time.sleep(3.5)
-        
+
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20___mamun__%20%20:%20'+noob___mamun__+''+myid+''+ love
 
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100003174443045')
-        os.system('am start https://wa.me/+8801305504954?text=' + tks)
+        os.system('xdg-open https://www.facebook.com/mamunahmed.fahim.5')
+        os.system('am start https://wa.me/+8801715650048?text=' + tks)
 
         
 
-    r1=requests.get("https://raw.githubusercontent.com/R4FSAN-143/R4FSAN-PRO/main/fuck.txt").text
+    r1=requests.get("https://raw.githubusercontent.com/noobboss1/main/main/x/c/h/error/file.txt").text
 
     if ___mamun__1 in r1:
 
